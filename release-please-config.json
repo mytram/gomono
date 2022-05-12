@@ -1,0 +1,25 @@
+{
+  "bump-minor-pre-major": true,
+  "bump-patch-for-minor-pre-major": true,
+  "draft": false,
+  "prerelease": false,
+  "versioning": "default",
+  "tag-separator": "/",
+  "packages": {
+    "pkg": {
+      "package-name": "pkg",
+      "release-type": "go",
+      "release-as": "0.0.1"
+    },
+    "cube": {
+      "package-name": "cube",
+      "release-type": "go",
+      "release-as": "0.0.1"
+    },
+    "tetra": {
+      "package-name": "tetra",
+      "release-type": "go",
+      "release-as": "0.0.1"
+    }
+  }
+}
