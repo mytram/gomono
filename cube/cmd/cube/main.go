@@ -1,6 +1,7 @@
 package main
 
 import (
+	"log"
 	"os"
 
 	"github.com/gin-contrib/cors"
@@ -24,4 +25,5 @@ func main() {
 	app.Draw(r)
 
 	r.Run()
+	log.Println("cube is running")
 }
