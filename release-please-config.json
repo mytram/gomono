@@ -8,18 +8,15 @@
   "packages": {
     "pkg": {
       "package-name": "pkg",
-      "release-type": "go",
-      "release-as": "0.0.1"
+      "release-type": "go"
     },
     "cube": {
       "package-name": "cube",
-      "release-type": "go",
-      "release-as": "0.0.1"
+      "release-type": "go"
     },
     "tetra": {
       "package-name": "tetra",
-      "release-type": "go",
-      "release-as": "0.0.1"
+      "release-type": "go"
     }
   }
 }
