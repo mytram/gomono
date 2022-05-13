@@ -5,5 +5,5 @@ import (
 )
 
 func Draw(r *gin.Engine) {
-	r.GET("/readyz", readyz)
+	// r.GET("/readyz", readyz)
 }
